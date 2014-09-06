@@ -1,9 +1,9 @@
-name: 
+name: check_ica_servers
 description: "file:///README.md"
 url: "https://www.netways.org/projects/plugins"
 tags: ~
-vendor: Netways
-target: Temperature
+vendor: NETWAYS,Citrix
+target: Storage
 type: Plugin
 license: gplv2
 releases: 
